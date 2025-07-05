@@ -42,5 +42,5 @@ Reinicia Claude Desktop y prueba:
 
 ## Recursos
 
-- 📖 [Artículo completo](./articulo-devto.md)
+- 📖 [Artículo completo](https://dev.to/marioflores7/your-first-mcp-server-in-python-connect-custom-tools-to-claude-1hbn)
 - 🌐 [Documentación MCP](https://modelcontextprotocol.io/)
